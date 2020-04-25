@@ -1,8 +1,10 @@
-var friends = require("../data/friends");
+var friendsData = require("../data/friends");
 
 module.exports = function(app) {
-    app.get("/api/survey", function(req, res) {
-        res.json(friends);
+    app.get("/api/friends", function(req, res) {
+        res.json(friendsData);
     })
+
+    app.get
 }
 
