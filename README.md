@@ -4,6 +4,7 @@ https://friend-finder-claywhill.herokuapp.com/
 1. Clone the repo
 1. npm install
 1. run the server.js file
+1. navigate to localhost:3000 in your browser
 
 ## Tech Used
 * JavaScript
